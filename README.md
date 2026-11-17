@@ -77,4 +77,4 @@ PHP 8 · MySQL / MariaDB · PDO · Bootstrap 5 · Font Awesome · JavaScript (Fe
 
 ## Author
 
-**Riyad Nouar** — Computer Engineering student (Cybersecurity), UIR
+**Riyad Nouar**
